@@ -20,7 +20,6 @@ This project focuses on turning raw operational data into actionable business in
 - Customer and driver rating analysis
 - Peak booking hour identification
 - Delhi NCR geospatial demand analysis
-- Top pickup and drop locations
 
 ## 💡 Key Findings
 
@@ -36,6 +35,23 @@ This project focuses on turning raw operational data into actionable business in
 - Power Query
 - Data Modeling
 - Bing Maps
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### Revenue Analysis
+![Revenue Analysis](images/revenue-analytics.png)
+
+### Ride Performance
+![Operations Analysis](images/operations_performance.png)
+
+### Cancellation Analysis
+![Cancellation Analysis](images/cancellation_Intelligence.png)
+
+### Geospatial Analysis
+![Geospatial Analysis](images/geospatial_intelligence.png)
 
 ## 📁 Project Files
 
