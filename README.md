@@ -39,19 +39,19 @@ This project focuses on turning raw operational data into actionable business in
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/Executive_Overview.png)
 
 ### Revenue Analysis
-![Revenue Analysis](images/revenue-analytics.png)
+![Revenue Analysis](images/Revenue_Analytics.png)
 
 ### Ride Performance
-![Operations Analysis](images/operations_performance.png)
+![Operations Analysis](images/Operations_Performance.png)
 
 ### Cancellation Analysis
-![Cancellation Analysis](images/cancellation_Intelligence.png)
+![Cancellation Analysis](images/Cancellation_Intelligence.png)
 
 ### Geospatial Analysis
-![Geospatial Analysis](images/geospatial_intelligence.png)
+![Geospatial Analysis](images/Geospatial_Intelligence.png)
 
 ## 📁 Project Files
 
